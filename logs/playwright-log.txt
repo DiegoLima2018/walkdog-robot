@@ -1,0 +1,711 @@
+{"level":30,"time":"2024-02-29T17:19:21.729Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Listening on 55411"}
+(node:132699) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-02-29T17:19:21.780Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:21.780Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:21.783Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:21.783Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:21.789Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-02-29T17:19:23.514Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Adding browser to stack: chromium, version: 121.0.6167.57"}
+{"level":30,"time":"2024-02-29T17:19:23.515Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-02-29T17:19:23.514Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-02-29T17:19:23.519Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:23.520Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-29T17:19:23.540Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:24.363Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-29T17:19:24.363Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:24.969Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:24.975Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:24.977Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-29T17:19:25.016Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:25.022Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:25.022Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.118Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:25.122Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:25.122Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:25.132Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:25.136Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:25.136Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:25.168Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-29T17:19:25.168Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:25.176Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.177Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.216Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.221Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.221Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.243Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.248Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.248Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.268Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.272Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.272Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.289Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.293Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:25.293Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"][value$=CEP] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.343Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:25.346Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.346Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.357Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.357Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.370Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.370Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.381Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.381Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.394Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.394Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.405Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.405Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.418Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.419Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.429Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.429Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.442Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.442Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.455Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.455Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.468Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.468Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.478Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.478Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.491Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.491Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.502Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.502Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.515Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.515Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.528Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.528Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.541Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.541Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.551Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.551Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.564Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.564Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.575Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.575Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.589Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.589Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.599Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.599Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.612Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.612Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.624Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.625Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.638Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.638Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.648Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.648Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.661Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.661Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.668Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.668Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.681Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.681Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.693Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:25.693Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.705Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.705Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.724Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing Avenida Paulista"}
+{"level":30,"time":"2024-02-29T17:19:25.724Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.727Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.727Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressDistrict\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.734Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressDistrict\"] containing Bela Vista"}
+{"level":30,"time":"2024-02-29T17:19:25.734Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.738Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.738Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressCityUf\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.745Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressCityUf\"] containing São Paulo/SP"}
+{"level":30,"time":"2024-02-29T17:19:25.745Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:25.748Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.749Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressNumber\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.769Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.772Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.772Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressDetails\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.788Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:25.793Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-29T17:19:25.813Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:25.813Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-29T17:19:25.860Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:25.864Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:25.864Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2024-02-29T17:19:26.660Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:26.664Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:26.664Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2024-02-29T17:19:26.677Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved text for element css=.swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-02-29T17:19:26.678Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:26.682Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:26.682Z","pid":132699,"hostname":"diego-OptiPlex-9020","Take screenshot with options: ":{"path":"/home/diego/Workspaces/QAx/projects/walkdog-robot/logs/browser/screenshot/robotframework-browser-screenshot-1.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-29T17:19:26.926Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:26.932Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:26.934Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:26.936Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:26.938Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:26.941Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:26.941Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=c2fe87c0-1233-40b2-9ced-70c444b0f187"}
+{"level":30,"time":"2024-02-29T17:19:26.941Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:26.944Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:26.947Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:26.949Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:26.949Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:26.951Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:26.952Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:26.955Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=c2fe87c0-1233-40b2-9ced-70c444b0f187"}
+{"level":30,"time":"2024-02-29T17:19:26.955Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:26.959Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:26.961Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:26.963Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:26.963Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=c2fe87c0-1233-40b2-9ced-70c444b0f187"}
+{"level":30,"time":"2024-02-29T17:19:26.963Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:26.966Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:27.000Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Removed page=6a60d8ee-24aa-4850-8264-d39518846d00 from context=f7e2d285-161b-40a0-81a2-acca2c3715e6 page stack"}
+{"level":30,"time":"2024-02-29T17:19:27.015Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:27.019Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.019Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.023Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:27.023Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:27.025Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:27.025Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-29T17:19:27.032Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:27.096Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-29T17:19:27.096Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:27.448Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:27.452Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.452Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-29T17:19:27.478Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.482Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:27.482Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:27.565Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:27.572Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.572Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:27.582Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.587Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:27.587Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:27.607Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-29T17:19:27.607Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:27.611Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:27.611Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-29T17:19:27.679Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:27.682Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.682Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu nome completo in page."}
+{"level":30,"time":"2024-02-29T17:19:27.689Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.693Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.693Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu melhor email in page."}
+{"level":30,"time":"2024-02-29T17:19:27.700Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.705Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.705Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu CPF in page."}
+{"level":30,"time":"2024-02-29T17:19:27.709Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.712Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.712Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu CEP in page."}
+{"level":30,"time":"2024-02-29T17:19:27.718Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.723Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.723Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe um número maior que zero in page."}
+{"level":30,"time":"2024-02-29T17:19:27.727Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.730Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.730Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Adcione um documento com foto (RG ou CHN) in page."}
+{"level":30,"time":"2024-02-29T17:19:27.733Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:27.738Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:27.738Z","pid":132699,"hostname":"diego-OptiPlex-9020","Take screenshot with options: ":{"path":"/home/diego/Workspaces/QAx/projects/walkdog-robot/logs/browser/screenshot/robotframework-browser-screenshot-2.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-29T17:19:27.948Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:27.954Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.955Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.957Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.961Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.963Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:27.963Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=40170ab5-cbe1-44b1-8f64-a0e88c0b370f"}
+{"level":30,"time":"2024-02-29T17:19:27.963Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:27.966Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.967Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.969Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:27.969Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:27.972Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:27.972Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:27.974Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=40170ab5-cbe1-44b1-8f64-a0e88c0b370f"}
+{"level":30,"time":"2024-02-29T17:19:27.974Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:27.979Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.980Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:27.984Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:27.984Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=40170ab5-cbe1-44b1-8f64-a0e88c0b370f"}
+{"level":30,"time":"2024-02-29T17:19:27.984Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:27.989Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:27.994Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Removed page=4e8c5c5d-e833-4afa-9ad3-5b2c2ff16f5c from context=c9ab1851-ec77-41b2-9e49-64eaf89e80e8 page stack"}
+{"level":30,"time":"2024-02-29T17:19:28.006Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:28.008Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:28.008Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:28.012Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:28.012Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:28.015Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:28.015Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-29T17:19:28.023Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:28.088Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-29T17:19:28.088Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:28.389Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:28.393Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:28.393Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-29T17:19:28.431Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:28.438Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:28.438Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.547Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:28.550Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:28.550Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:28.567Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:28.570Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:28.570Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:28.595Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-29T17:19:28.595Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:28.599Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:28.599Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.634Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:28.641Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:28.641Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.662Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:28.665Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:28.665Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.684Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:28.689Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:28.689Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.710Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:28.713Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:28.713Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"][value$=CEP] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.774Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:28.777Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.777Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.785Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.786Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.802Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.802Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.815Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.815Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.827Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.827Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.834Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.834Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.846Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.846Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.857Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.857Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.869Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.869Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.883Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.883Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.895Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.895Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.902Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.902Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.915Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.915Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.926Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.926Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.938Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.938Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.946Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.946Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.958Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.958Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.976Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.976Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.989Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:28.989Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:28.996Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:28.996Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.008Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.008Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.016Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:29.016Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.028Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.028Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.036Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:29.036Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.048Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.048Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.066Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:29.066Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.078Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.078Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.086Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:29.086Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.098Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.098Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.109Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:29.109Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.121Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.121Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.132Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:29.132Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.144Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.145Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.167Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing Avenida Paulista"}
+{"level":30,"time":"2024-02-29T17:19:29.167Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.170Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.170Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressDistrict\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.179Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressDistrict\"] containing Bela Vista"}
+{"level":30,"time":"2024-02-29T17:19:29.179Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.181Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.181Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressCityUf\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.192Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressCityUf\"] containing São Paulo/SP"}
+{"level":30,"time":"2024-02-29T17:19:29.192Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:29.195Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:29.195Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressNumber\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.224Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:29.228Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:29.228Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressDetails\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.251Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:29.255Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-29T17:19:29.276Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:29.276Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-29T17:19:29.324Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:29.328Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:29.328Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=CPF inválido in page."}
+{"level":30,"time":"2024-02-29T17:19:29.332Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:29.336Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:29.336Z","pid":132699,"hostname":"diego-OptiPlex-9020","Take screenshot with options: ":{"path":"/home/diego/Workspaces/QAx/projects/walkdog-robot/logs/browser/screenshot/robotframework-browser-screenshot-3.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-29T17:19:29.611Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:29.618Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.619Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.622Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.624Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.626Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:29.626Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=680f24d4-e624-484f-a5f4-936a82b9c5cc"}
+{"level":30,"time":"2024-02-29T17:19:29.626Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:29.629Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.631Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.633Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:29.633Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:29.635Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:29.635Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:29.638Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=680f24d4-e624-484f-a5f4-936a82b9c5cc"}
+{"level":30,"time":"2024-02-29T17:19:29.638Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:29.642Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.644Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.646Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:29.646Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=680f24d4-e624-484f-a5f4-936a82b9c5cc"}
+{"level":30,"time":"2024-02-29T17:19:29.646Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:29.647Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:29.654Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Removed page=10fa5431-d828-4d29-aa8c-c7994eb170ff from context=de3b8125-06c4-41c5-9c85-9c6fc7951388 page stack"}
+{"level":30,"time":"2024-02-29T17:19:29.665Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:29.671Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.671Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:29.674Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:29.674Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:29.677Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:29.677Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-29T17:19:29.683Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:29.751Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-29T17:19:29.751Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:30.042Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:30.047Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:30.047Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-29T17:19:30.073Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:30.078Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:30.078Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.159Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:30.165Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:30.165Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:30.170Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:30.174Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:30.174Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:30.199Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-29T17:19:30.199Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:30.203Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.203Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.232Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.234Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.235Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.253Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.256Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.256Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.271Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.274Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.274Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.287Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.290Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:30.290Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"][value$=CEP] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.342Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:30.344Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.344Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.350Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.350Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.363Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.363Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.373Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.373Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.386Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.386Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.394Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.394Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.407Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.407Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.416Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.416Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.429Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.429Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.439Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.439Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.452Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.452Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.461Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.461Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.474Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.474Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.484Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.484Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.496Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.496Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.505Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.505Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.517Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.517Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.527Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.527Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.540Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.540Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.549Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.549Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.561Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.561Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.571Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.571Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.584Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.584Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.594Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.594Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.606Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.606Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.614Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.614Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.627Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.627Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.637Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.637Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.649Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.649Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.658Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.658Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.670Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.670Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.677Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:30.677Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.690Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.690Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.705Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing Avenida Paulista"}
+{"level":30,"time":"2024-02-29T17:19:30.705Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.708Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.708Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressDistrict\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.714Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressDistrict\"] containing Bela Vista"}
+{"level":30,"time":"2024-02-29T17:19:30.714Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.718Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.718Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressCityUf\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.726Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressCityUf\"] containing São Paulo/SP"}
+{"level":30,"time":"2024-02-29T17:19:30.726Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:30.729Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.729Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressNumber\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.747Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.750Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.750Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressDetails\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.763Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:30.766Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-29T17:19:30.799Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:30.799Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with xpath=//span[text()=\"Cuidar\"]/.. in page."}
+{"level":30,"time":"2024-02-29T17:19:30.840Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:30.843Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:30.843Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-29T17:19:30.897Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:30.901Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:30.901Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2024-02-29T17:19:31.703Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:31.706Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:31.706Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2024-02-29T17:19:31.718Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved text for element css=.swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-02-29T17:19:31.718Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:31.722Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:31.723Z","pid":132699,"hostname":"diego-OptiPlex-9020","Take screenshot with options: ":{"path":"/home/diego/Workspaces/QAx/projects/walkdog-robot/logs/browser/screenshot/robotframework-browser-screenshot-4.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-29T17:19:31.959Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:31.964Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:31.967Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:31.971Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:31.972Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:31.974Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:31.974Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=ae01f874-9087-43ac-ba08-06951054b855"}
+{"level":30,"time":"2024-02-29T17:19:31.974Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:31.976Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:31.978Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:31.980Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:31.981Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:31.984Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:31.984Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:31.988Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=ae01f874-9087-43ac-ba08-06951054b855"}
+{"level":30,"time":"2024-02-29T17:19:31.988Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:31.991Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:31.993Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:31.995Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:31.995Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=ae01f874-9087-43ac-ba08-06951054b855"}
+{"level":30,"time":"2024-02-29T17:19:31.995Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:31.997Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:32.004Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Removed page=be89f100-1d9a-48a9-9cbe-e0435d4c723f from context=ebc20304-d43e-4b82-90f6-9b2c0a0ffc6a page stack"}
+{"level":30,"time":"2024-02-29T17:19:32.015Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:32.019Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:32.019Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:32.022Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:32.022Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:32.025Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:32.025Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-29T17:19:32.030Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:32.110Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-29T17:19:32.110Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:32.423Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-29T17:19:32.427Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:32.427Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-29T17:19:32.450Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:32.455Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:32.455Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.533Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:32.536Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:32.536Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:32.543Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:32.546Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:32.546Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-29T17:19:32.576Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-29T17:19:32.576Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:32.580Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:32.580Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.606Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:32.609Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:32.609Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.625Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:32.628Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:32.628Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.644Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:32.647Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:32.647Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.662Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:32.665Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:32.665Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"][value$=CEP] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.720Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:32.722Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.722Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.728Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.728Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.741Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.741Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.750Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.750Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.763Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.763Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.774Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.774Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.787Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.787Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.796Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.796Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.808Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.809Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.819Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.819Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.831Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.832Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.841Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.841Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.853Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.853Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.862Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.862Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.874Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.875Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.884Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.884Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.897Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.897Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.907Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.907Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.920Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.920Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.927Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.927Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.939Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.939Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.948Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.948Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.961Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.961Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.969Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.969Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.982Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:32.982Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:32.992Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:32.992Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.005Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.005Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.014Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:33.014Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.026Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.026Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.033Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:33.033Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.045Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.045Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.055Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:33.055Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.068Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.068Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.077Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing "}
+{"level":30,"time":"2024-02-29T17:19:33.077Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.089Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.089Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressStreet\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.099Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressStreet\"] containing Avenida Paulista"}
+{"level":30,"time":"2024-02-29T17:19:33.099Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.102Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.102Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressDistrict\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.108Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressDistrict\"] containing Bela Vista"}
+{"level":30,"time":"2024-02-29T17:19:33.108Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.111Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.111Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressCityUf\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.121Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved dom property for element css=input[name=\"addressCityUf\"] containing São Paulo/SP"}
+{"level":30,"time":"2024-02-29T17:19:33.121Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-29T17:19:33.124Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:33.124Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressNumber\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.143Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:33.146Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:33.146Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressDetails\"] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.169Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-29T17:19:33.172Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-29T17:19:33.191Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:33.192Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with xpath=//span[text()=\"Adestrar\"]/.. in page."}
+{"level":30,"time":"2024-02-29T17:19:33.232Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:33.236Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-29T17:19:33.236Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-29T17:19:33.289Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method click"}
+{"level":30,"time":"2024-02-29T17:19:33.294Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:33.294Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2024-02-29T17:19:34.095Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-29T17:19:34.098Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:34.098Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2024-02-29T17:19:34.110Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Retrieved text for element css=.swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-02-29T17:19:34.110Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-29T17:19:34.113Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:34.113Z","pid":132699,"hostname":"diego-OptiPlex-9020","Take screenshot with options: ":{"path":"/home/diego/Workspaces/QAx/projects/walkdog-robot/logs/browser/screenshot/robotframework-browser-screenshot-5.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-29T17:19:34.356Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-29T17:19:34.360Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.362Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.363Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.365Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.367Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:34.367Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=82a569e8-4ee9-4be8-a288-fcfa5aa1057f"}
+{"level":30,"time":"2024-02-29T17:19:34.367Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:34.375Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.377Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.379Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:34.379Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:34.381Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:34.382Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-29T17:19:34.384Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=82a569e8-4ee9-4be8-a288-fcfa5aa1057f"}
+{"level":30,"time":"2024-02-29T17:19:34.384Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:34.389Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.391Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.396Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active context"}
+{"level":30,"time":"2024-02-29T17:19:34.396Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changing current active page: page=82a569e8-4ee9-4be8-a288-fcfa5aa1057f"}
+{"level":30,"time":"2024-02-29T17:19:34.396Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Changed active page"}
+{"level":30,"time":"2024-02-29T17:19:34.398Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:34.404Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Removed page=6c946c07-04ed-4ee3-ad8a-e73152cc3917 from context=51e661ab-5000-4d56-806c-5ef7d56646d9 page stack"}
+{"level":30,"time":"2024-02-29T17:19:34.415Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-29T17:19:34.421Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.421Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-29T17:19:34.480Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-02-29T17:19:34.633Z","pid":132699,"hostname":"diego-OptiPlex-9020","msg":"End of node method closeAllBrowsers"}
